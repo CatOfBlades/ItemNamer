@@ -1,0 +1,11 @@
+iron
+copper
+glass
+paper
+cactus
+myrion
+silver
+gold
+wool
+cotton
+

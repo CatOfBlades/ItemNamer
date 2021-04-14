@@ -1,0 +1,77 @@
+knife
+braserre
+basket
+teeshirt
+jacket
+tanktop
+peacoat
+sweater
+Tuxedo jacket
+thong(undergarment)
+bikini(undergarment)
+bikini(top)
+shield
+breeches(legwear)
+briefs(undergarment)
+boxers(undergarment)
+shortsword
+breastplate
+chainmail shirt
+coat(garment)
+blazer(garment)
+raincoat
+slacks(garment)
+cosmic keystone
+cloak(garment)
+cloche
+tunic(garment)
+toga(garment)
+cape
+vest
+dress
+robe
+set of gauntlets
+set of gloves
+set of mittens
+hood
+turban
+mask
+face veil
+head veil
+headscarf
+cap(headwear)
+helmet
+umbrella
+purse
+suitcase
+birdcage
+lantern
+book
+flag
+basket bag
+bouquet
+skirt
+Kilt
+leaf shaped trinket
+cross shaped trinket
+heart shaped trinket
+skull shaped trinket
+book shaped trinket
+circle shaped trinket
+knife shaped trinket
+teardrop shaped trinket
+chain
+bar
+bell
+block
+bucket
+bowl
+sphere
+rod
+wand
+globe
+doll
+cutlery set
+pipe section
+screw
+spike

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1563158218 source:c:\users\jarem\desktop\micah\code\itemgenerator\items.cpp
+	"Items.h"
+
+1572122724 c:\users\jarem\desktop\micah\code\itemgenerator\items.h
+	<string>
+	<vector>
+
+1594954964 source:c:\users\jarem\desktop\micah\code\itemgenerator\main.cpp
+	"Items.h"
+	<stdio.h>
+
+1563158218 source:c:\users\jarem\documents\c++\itemgenerator\items.cpp
+	"Items.h"
+
+1572122724 c:\users\jarem\documents\c++\itemgenerator\items.h
+	<string>
+	<vector>
+
+1599282189 source:c:\users\jarem\documents\c++\itemgenerator\main.cpp
+	"Items.h"
+	<stdio.h>
+	<time.h>
+

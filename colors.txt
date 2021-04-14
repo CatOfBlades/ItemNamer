@@ -1,0 +1,115 @@
+amber
+amethyst
+aqua
+aquamarine
+ash gray
+auburn
+azure
+beige
+black
+blue
+brass
+bronze
+brown
+buff
+burnt sienna
+burnt umber
+cardinal
+carmine
+cerulean
+charcoal
+chartreuse
+chestnut
+chocolate
+cinnamon
+clear
+cobalt
+copper
+cream
+crimson
+dark blue
+dark brown
+dark chestnut
+dark green
+dark indigo
+dark olive
+dark peach
+dark pink
+dark scarlet
+dark tan
+dark violet
+ecru
+eggplant
+emerald
+fern green
+flax
+fuchsia
+gold
+golden yellow
+goldenrod
+gray
+green
+green-yellow
+heliotrope
+indigo
+ivory
+jade
+lavender
+lavender blush
+lemon
+light blue
+light brown
+lilac
+lime
+mahogany
+maroon
+mauve
+mauve taupe
+midnight blue
+mint green
+moss green
+ochre
+olive
+orange
+pale blue
+pale brown
+pale chestnut
+pale pink
+peach
+pearl
+periwinkle
+pine green
+pink
+plum
+puce
+pumpkin
+purple
+raw umber
+red
+red-purple
+rose
+russet
+rust
+saffron
+scarlet
+sea green
+sepia
+silver
+sky blue
+slate gray
+spring green
+tan
+dark taupe
+taupe gray
+taupe
+purple taupe
+pale taupe
+rose taupe
+sandy taupe
+teal
+turquoise
+vermilion
+violet
+white
+yellow
+yellow-green
