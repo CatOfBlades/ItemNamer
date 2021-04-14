@@ -22,3 +22,15 @@
 	<stdio.h>
 	<time.h>
 
+1563158218 source:c:\users\jarem\documents\github\itemnamer\items.cpp
+	"Items.h"
+
+1572122724 c:\users\jarem\documents\github\itemnamer\items.h
+	<string>
+	<vector>
+
+1599282189 source:c:\users\jarem\documents\github\itemnamer\main.cpp
+	"Items.h"
+	<stdio.h>
+	<time.h>
+
